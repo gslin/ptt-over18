@@ -1,4 +1,4 @@
 (function(){
-    var el = document.querySelector('form');
-    el.submit();
+    var el = document.querySelector('button[name="yes"]');
+    el.click();
 })();

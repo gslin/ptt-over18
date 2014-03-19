@@ -1,11 +1,11 @@
 {
     "manifest_version": 2,
     "name": "Ptt Over18",
-    "version": "0.2",
+    "version": "0.3",
     "description": "自動驗證 Ptt 十八歲確認畫面",
     "content_scripts": [
         {
-            "matches": ["http://www.ptt.cc/ask/over18*"],
+            "matches": ["*://www.ptt.cc/ask/over18*"],
             "js": ["ptt-over18.js"]
         }
     ],

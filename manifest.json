@@ -1,5 +1,5 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 3,
     "name": "Ptt Over18",
     "version": "0.3",
     "description": "自動驗證 Ptt 十八歲確認畫面",

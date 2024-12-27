@@ -1,4 +1,5 @@
-(function(){
-    var el = document.querySelector('button[name="yes"]');
-    el.click();
+(() => {
+  'use strict';
+
+  document.querySelector('button[name="yes"]')?.click();
 })();

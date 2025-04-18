@@ -6,4 +6,4 @@ VERSION!=	cat manifest.json | jq -r ".version"
 
 #
 build::
-	zip -r ../ptt-over-18-${VERSION}.zip . -x ".git/*"
+	zip -r ../ptt-over18-${VERSION}.zip . -x ".git/*"

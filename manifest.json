@@ -9,6 +9,11 @@
             "js": ["ptt-over18.js"]
         }
     ],
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "https://github.com/gslin/ptt-over18"
+        }
+    },
     "permissions": [
     ]
 }

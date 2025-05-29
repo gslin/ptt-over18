@@ -7,6 +7,7 @@ Installation
 ------------
 
 * https://chromewebstore.google.com/detail/ptt-over18/nbjljajdlncipflockgajmfpohoihkda
+* https://addons.mozilla.org/en-US/firefox/addon/pttover18/
 
 License
 -------
